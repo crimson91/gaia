@@ -1,0 +1,11 @@
+{
+  "name": "Mockup",
+  "description": "Hello",
+  "version": "1.0",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "JAJAJAJa",
+    "url": "http://example.com"
+  },
+  "permissions": {}
+}
