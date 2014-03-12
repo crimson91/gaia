@@ -27,8 +27,12 @@
     },
     "geolocation": {
       "description": "Marking out user location"
-    }
-  },
+    }, 
+    "bluetooth":{}
+  }, 
+  "messages": [
+    { "bluetooth-pairing-request": "/pairing.html" }
+  ], 
   "locales": {
     "ar": {
       "name": "التطبيق المساعد لبدء التطوير لـFirefox OS",
